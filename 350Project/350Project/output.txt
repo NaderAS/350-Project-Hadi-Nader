@@ -1,0 +1,12 @@
+
+Pinging google.com [216.58.205.206] with 32 bytes of data:
+Reply from 216.58.205.206: bytes=32 time=92ms TTL=111
+Reply from 216.58.205.206: bytes=32 time=102ms TTL=111
+Reply from 216.58.205.206: bytes=32 time=88ms TTL=111
+Reply from 216.58.205.206: bytes=32 time=113ms TTL=111
+Reply from 216.58.205.206: bytes=32 time=101ms TTL=111
+
+Ping statistics for 216.58.205.206:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 88ms, Maximum = 113ms, Average = 99ms
